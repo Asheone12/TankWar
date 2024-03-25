@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">方块坦克战</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="begin">开始游戏</string>
+    <string name="ends">恭喜你,游戏成功!\n点击此开始游戏</string>
+    <string name="endf">加油哦,游戏失败!\n点击此开始游戏</string>
+</resources>
